@@ -16,10 +16,9 @@ export default function Home() {
         <meta property="og:image" content="https://www.shutterstock.com/shutterstock/photos/699192727/display_1500/stock-photo-portrait-very-fat-man-raises-a-dumbbell-morning-exercise-of-a-fat-man-with-dumbbells-white-699192727.jpg" />
    </Head>
    <div className='min-h-screen w-screen bg-slate-900 flex justify-center items-center text-cyan-300 text-3xl'>
-    <div className='flex justify-center items-center flex-col mr-20'>
+    <div className='flex justify-center items-center flex-col mr-10'>
 
-    <h1 className='mt-20'>bxd mizan</h1>
-    <h2 className='my-20'>bxd mizan</h2>
+    <h1 className='my-20'>bxd mizan</h1>
     <h2 className='mb-20'>Greatest Nim Ever</h2>
     </div>
     <div className='w-[300px] h-[600px]'>
