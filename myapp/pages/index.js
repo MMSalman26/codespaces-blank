@@ -19,6 +19,7 @@ export default function Home() {
     <h1>bxd mizan</h1>
     <h2 className='my-20'>bxd mizan</h2>
     <h2>Greatest Nim Ever</h2>
+    <img src='https://www.shutterstock.com/shutterstock/photos/699192727/display_1500/stock-photo-portrait-very-fat-man-raises-a-dumbbell-morning-exercise-of-a-fat-man-with-dumbbells-white-699192727.jpg' alt="hi buddy"></img>
    </div>
    </>
   )
