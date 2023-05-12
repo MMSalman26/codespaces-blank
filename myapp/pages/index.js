@@ -10,6 +10,8 @@ export default function Home() {
    <Head>
    <title>Mizan App | bxd mizan</title>
         <meta name="description" content="This App is created for exposing the bxd mizan" />
+        <meta name="keywords" content="bxd mizan"></meta>
+        <meta name="author" content="bxd mizan"></meta>
         <meta property="og:type" content="website"></meta>
         <meta property="og:title" content="Mizan App" />
         <meta property="og:description" content="This App is created for exposing the bxd mizan" />
