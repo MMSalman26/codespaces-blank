@@ -18,6 +18,7 @@ export default function Home() {
    <div className='h-screen w-screen bg-slate-900 flex justify-center items-center text-cyan-300 text-3xl'>
     <h1>bxd mizan</h1>
     <h2 className='my-20'>bxd mizan</h2>
+    <h2>Greatest Nim Ever</h2>
    </div>
    </>
   )
